@@ -2,7 +2,7 @@
 ### UPDATES :
 ##### Added 10 new websites from the Pro version!
 ##### The tool is completely free now
-####  FOR ANY SUGGESTION CONTACT: shuvo-halder@outlook.com
+####  FOR ANY SUGGESTION CONTACT: austinbediako4@gmail.com
 
 -----------------------------------------------------------------------------------------------------------------------------
 ### UPDATES :
@@ -25,6 +25,11 @@
           [14] Pinterest      [30] Steam                                
           [15] Apple ID       [31] Tiktok      
           
+
+
+## BLACKEYE v1.2
+##UPDATES :
+#### I have added NGROK 
 
 ## BLACKEYE v1.2
 ### UPDATES :
@@ -57,7 +62,7 @@ The use of BlackEye to attack targets without prior mutual consent is illegal. I
 
 ### Usage:
 ```
-git clone https://github.com/shuvo-halder/blackeye
+git clone https://github.com/kaeytee/blackeye
 cd blackeye
 bash blackeye.sh
 ```
